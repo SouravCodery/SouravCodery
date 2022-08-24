@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sourav Choudhary (@SouravCodery). I'm a Pre-Final Year Student of Engineering Majoring in Computer Science. 
+- 👋 Hi, I’m Sourav Choudhary (@SouravCodery).
 - 👀 I’m a MERN Stack Developer. 
 - 📫 I'm available on various Social Networking Sites with the handle @SouravCodery. You may google "SouravCodery" to reach out to my profiles!
 
